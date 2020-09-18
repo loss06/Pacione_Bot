@@ -1,15 +1,3 @@
-#이 코드는 op.gg소환사 전적 검색만을 위한 코드입니다. 추후 다른 기능들을 지속적으로 업데이트 할 예정입니다
-#이 코드는 효율성이 많이 떨어지며, 정돈이 아직 덜된상태입니다.
-#추후 효율성이 더 높은 코드로 변경할 것이며, selenium을 사용한 버전도 올릴예정입니다
-#https://github.com/J-hoplin1/League-Of-Legend-Search-Bot/blob/master/lolSearchbot.py
-#롤 전적 검색 봇 그리고 로그 봇
-
-#This code and description is written by Hoplin
-#This code is written with API version 1.0.0(Rewirte-V)
-#No matter to use it as non-commercial.
-
-# To make a discord bot you need to download discord.py with pip
-#-*- coding: utf-8 -*-
 import discord
 import asyncio
 import os
