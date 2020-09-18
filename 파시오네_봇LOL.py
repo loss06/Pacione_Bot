@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import quote
 import re # Regex for youtube link
 import warnings
-
+#https://github.com/J-hoplin1/League-Of-Legend-Search-Bot/blob/master/lolSearchbot.py 원작자
 client = discord.Client() # Create Instance of Client. This Client is discord server's connection to Discord Room
 
 # for lolplayersearch
